@@ -70,7 +70,7 @@ def enable_entry(event):
 
 # Main window
 root = Tk()
-root.title("MSTIP Chatbot")
+root.title("Akshay's Chatmate")
 root.geometry("500x400")
 root.configure(bg=BG_APP)
 
